@@ -1,0 +1,22 @@
+{
+  "name": "typehinting-demo",
+  "version": "1.0.0",
+  "description": "Javascript Type-hinting demo for blog post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sequoia/typehinting-demo.git"
+  },
+  "author": "Sequoia McDowell <sequoia.mcdowell@gmail.com> (http://sequoia.makes.software/)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Sequoia/typehinting-demo/issues"
+  },
+  "homepage": "https://github.com/Sequoia/typehinting-demo#readme",
+  "devDependencies": {
+    "eslint": "^2.11.1"
+  }
+}
